@@ -88,9 +88,6 @@ echo hello world
 cd /
 ```
 
-## inserting images
-
-
 
 
 
@@ -103,6 +100,22 @@ square bracket is the linked text round bracket is the URL
 
 This is a link to [Dunedin Flat Names Project](http://www.dunedinflatnames.co.nz)
 
+
+
+
+## inserting images
+
+first upload an image into project
+
+![image of book spines](IMG_5135.jpg)
+
+smaller version
+
+<img src='IMG_5135.jpg' width=200/>
+
+from the web
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg)
 
  ----------------------------------------
  
