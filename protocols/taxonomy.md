@@ -1,4 +1,7 @@
-#Taxonomy
+# Taxonomy
 
-this is the taxonomy
+This is the taxonomy for classifying named flats.
+
+|Label | Sub | Definition|
+|---|---|---|
 
