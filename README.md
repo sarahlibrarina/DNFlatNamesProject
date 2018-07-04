@@ -88,7 +88,7 @@ echo hello world
 cd /
 ```
 
-## images
+## inserting images
 
 
 
