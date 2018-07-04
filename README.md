@@ -49,9 +49,11 @@ ToDos and Dones
  |Sarah|46|DSM|social media advisor|
  |Mik|40|biochemistry|stats guy|
  
-  | Name | Address | Street | Year|
- |---|---|---|---|
- |The Libra Flat | 113 | Harbour Terrace| 2014|
+ | Name | Address | Street | Year| Image |
+ |---|---|---|---|---|
+ |*The Libra Flat* | 113 | Harbour Terrace|2014|<img src='IMG_5135.jpg' width=200/>|
+ |*Beehive*| 615 | Castle Street|2010|
+ 
  
  
  
@@ -87,9 +89,6 @@ you can insert codes inline with a pair of `backticks`.
 echo hello world
 cd /
 ```
-
-
-
 
 
 ## Links/hyperlinks
