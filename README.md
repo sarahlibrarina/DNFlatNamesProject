@@ -118,14 +118,3 @@ from the web
 
  ----------------------------------------
  
-## abstract
-
-
-
-## tools used
-
-
-
-## methodology
-
-
