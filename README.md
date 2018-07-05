@@ -6,4 +6,6 @@ If you're looking for the results take a look in [results](/results).
 
 If you're looking for the images take a look in [images](/images).
 
-Pete Lamb making an edit.
+Pete Lamb makes an edit.
+
+
